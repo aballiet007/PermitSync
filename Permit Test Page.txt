@@ -1,2 +1,0 @@
-Permit Test Page  
-If you can see this on your phone, the test worked.
